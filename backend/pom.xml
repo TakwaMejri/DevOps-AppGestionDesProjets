@@ -33,7 +33,7 @@
     <properties>
         <java.version>17</java.version>
         <sonar.host.url>http://192.168.33.10:9000</sonar.host.url>
-        <sonar.projectKey>votre-project-key</sonar.projectKey>
+        <sonar.projectKey>MonProjetSpring</sonar.projectKey>
     </properties>
     <dependencies>
         <dependency>
